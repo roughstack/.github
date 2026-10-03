@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+.codex/
+.docdex/
+AGENTS.md
+PLAN.md
+**/prompt.md
+**/transcript*.jsonl
